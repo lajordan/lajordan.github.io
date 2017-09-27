@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Wearable Parable"
-date: 2017-09-26
+date: 2017-09-25
 ---
 
 "What's your product space?" asked the wicked venture capitalist.
