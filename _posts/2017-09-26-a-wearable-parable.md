@@ -12,6 +12,8 @@ date: 2017-09-26
 
 "I don't have a mother," said Cinderella.
 
+
+
 <br />
 
 "We're obsessed with hacking the world of big data by leveraging the power of scalable machine learning analytics," said the first stepsister.
@@ -142,5 +144,3 @@ Peter whipped out his phone. "Do you prefer the window or aisle seat?"
 <br />
 
 A week later, Cinderella was on a plane bound for Castle headquarters (the self-driving carriage was still in alpha testing). With the woodland animals as the first employees, Cinderella enrolled in the Castle incubator program and launched soon afterwards. Peter and the wear-y godmother invested, Glass Slipper Labs expanded its scope to become the global leader in wearables, and they all lived haptically ever after.
-
-
