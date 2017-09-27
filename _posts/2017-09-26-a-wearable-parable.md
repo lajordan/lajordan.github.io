@@ -130,9 +130,9 @@ But when he knocked on a door and the wicked venture capitalist opened, she was 
 
 The first stepsister tried to squeeze on the slipper, but her foot was too large to fit.
 
-"No matter – it'll be her sister, then. You know what they say about complementary cofounders, and all that."
+"No matter – it'll be her sister, then. Complementary cofounders, and all that."
 
-The second stepsister took the slipper and stuck her foot in. It slid in easily. Peter was about to cry out with joy, when he was interrupted by a loud buzzing and a flashing red light coming from the slipper. The second stepsister's foot had failed dual-factor toeprint authentication.
+The second stepsister took the slipper and stuck her foot in. It slid in easily. Peter was about to cry out with joy when he was interrupted by a loud buzzing and a flashing red light coming from the slipper. The second stepsister's foot had failed dual-factor toeprint authentication.
 
 
 Disheartened, Peter turned to go, but at that moment, Cinderella emerged from her room to throw out her empty ramen cup.
