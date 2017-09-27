@@ -30,7 +30,7 @@ The wicked VC flew Cinderella's stepsisters out to Disrupt the Kingdom.
 
 As the stepsisters gorged themselves on catered açaí bowls and poké and some other foods with accent marks, Cinderella slumped in her chair at home, sipping a bottle of Soylent. "At this rate, I'll never deliver value to users," she sighed.
 
-In a flash of fairy dust, a stout old woman appeared, to Cinderella's astonishment. With a swish of the woman's white-gloved hand, Cinderella's Soylent turned from plain to coffee flavored.
+In a flash of fairy dust, a stout old woman appeared. With a swish of the woman's white-gloved hand, Cinderella's Soylent turned from plain to coffee flavored.
 
 "How did you do that?" Cinderella cried.
 
@@ -42,15 +42,13 @@ In a flash of fairy dust, a stout old woman appeared, to Cinderella's astonishme
 
 Cinderella raised her eyebrows.
 
-"The name's a work in progress. There are only so many plays on 'wearables.' I thought about 'the wear-wolf', but this shit ain't Red Riding Hood, honey."
+"The name's a work in progress. There are only so many plays on 'wearables.' I thought about 'the wear-wolf', but this ain't Red Riding Hood, honey."
 
 Cinderella perked up a bit. "So you're into e-textiles and organic fibers and–"
 
 "My child, I am an angel investor in the wearables space. I've come to help you out."
 
-<br />
-
-With a swipe of the wear-y godmother's smartwatch, a bevy of woodland animals came running to Cinderella's closet-sized apartment bedroom. The godmother produced capital and tools at Cinderella's every request. While the chipmunks gnawed cuts, the mice sewed seams, the squirrels foraged for materials, and the owls provided valuable mentorship. No sooner would a part emerge from the laser cutter than a beta-testing team of bluebirds would eagerly try out the product and tweet their feedback. 
+With a swipe of the wear-y godmother's smartwatch, a bevy of woodland animals came scampering to Cinderella's closet-sized apartment bedroom. The godmother produced capital and tools at Cinderella's every request. While the chipmunks gnawed cuts, the mice sewed seams. The squirrels foraged for materials, and the owls provided valuable mentorship. No sooner would a part emerge from the laser cutter than a beta-testing team of bluebirds would eagerly try out the product and tweet their feedback. 
 
 Quicker and quicker they iterated. Cinderella and the creatures failed fast and failed faster, until finally the prototype had reached the standard for their minimum viable product.
 
