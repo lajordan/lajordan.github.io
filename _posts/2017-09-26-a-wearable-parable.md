@@ -22,11 +22,11 @@ date: 2017-09-26
 
 "I said that already," said the first stepsister.
 
-
+<br />
 
 The wicked VC flew Cinderella's stepsisters out to Disrupt the Kingdom.
 
-
+<br />
 
 As the stepsisters gorged themselves on catered açaí bowls and poké and some other foods with accent marks, Cinderella slumped in her chair at home, sipping a bottle of Soylent. "At this rate, I'll never deliver value to users," she sighed.
 
@@ -48,7 +48,7 @@ Cinderella perked up a bit. "So you're into e-textiles and organic fibers and–
 
 "My child, I am an angel investor in the wearables space. I've come to help you out."
 
-\n
+<br />
 
 With a swipe of the wear-y godmother's smartwatch, a bevy of woodland animals came running to Cinderella's closet-sized apartment bedroom. The godmother produced capital and tools at Cinderella's every request. While the chipmunks gnawed cuts, the mice sewed seams, the squirrels foraged for materials, and the owls provided valuable mentorship. No sooner would a part emerge from the laser cutter than a beta-testing team of bluebirds would eagerly try out the product and tweet their feedback. 
 
@@ -64,7 +64,7 @@ As she flicked her glove, Cinderella's scratchy, logoless gray T-shirt morphed i
 
 "– so you've got to be out of there by midnight or the whole thing turns into a pumpkin."
 
-\n
+<br />
 
 Off the carriage sped. Soon Cinderella had arrived at the conference.
 
@@ -92,7 +92,7 @@ Peter shrugged it off, but at the end of the night, he discovered one of the mys
 
 Then he remembered something she had mentioned. The slippers were individualized: they instantly molded to the primary user.
 
-\n
+<br />
 
 Peter Prince set out the next morning in his Tesla looking for every woman engineer in the kingdom with the help of questionably obtained personal data. He knocked on the first door.
 
@@ -110,7 +110,7 @@ He went to another apartment.
 
 "No, thanks."
 
-\n
+<br />
 
 But when he knocked on a door and the wicked venture capitalist opened, she was happy to let him in.
 
@@ -140,7 +140,7 @@ As soon as Cinderella's foot entered it, the slipper made a small ding of approv
 
 Peter whipped out his phone. "Do you prefer the window or aisle seat?"
 
-\n
+<br />
 
 A week later, Cinderella was on a plane bound for Castle headquarters (the self-driving carriage was still in alpha testing). With the woodland animals as the first employees, Cinderella enrolled in the Castle incubator program and launched soon afterwards. Peter and the wear-y godmother invested, Glass Slipper Labs expanded its scope to become the global leader in wearables, and they all lived haptically ever after.
 
