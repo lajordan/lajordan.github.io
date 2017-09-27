@@ -48,6 +48,8 @@ Cinderella perked up a bit. "So you're into e-textiles and organic fibers and–
 
 "My child, I am an angel investor in the wearables space. I've come to help you out."
 
+<br />
+
 With a swipe of the wear-y godmother's smartwatch, a bevy of woodland animals came running to Cinderella's closet-sized apartment bedroom. The godmother produced capital and tools at Cinderella's every request. While the chipmunks gnawed cuts, the mice sewed seams, the squirrels foraged for materials, and the owls provided valuable mentorship. No sooner would a part emerge from the laser cutter than a beta-testing team of bluebirds would eagerly try out the product and tweet their feedback. 
 
 Quicker and quicker they iterated. Cinderella and the creatures failed fast and failed faster, until finally the prototype had reached the standard for their minimum viable product.
