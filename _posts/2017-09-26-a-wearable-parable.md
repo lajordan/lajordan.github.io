@@ -6,6 +6,8 @@ date: 2017-09-26
 
 "What's your product space?" asked the wicked venture capitalist.
 
+"Did this commit even go through?" Lily interjected.
+
 "Uh, I'm interested in wearables," said Cinderella.
 
 "Ha! That market's saturated. Everyone and their mother wants to do wearables. You'll never get into Disrupt the Kingdom with an idea that vague."
