@@ -92,7 +92,7 @@ Then he remembered something she had mentioned. The slippers were individualized
 
 <br />
 
-Peter Prince set out in his Tesla the next morning searching, with the help of quasilegally obtained personal data, for every woman engineer in the kingdom. He knocked on the first door.
+Peter Prince set out in his Tesla the next morning searching, with the help of quasi-legally obtained personal data, for every woman engineer in the kingdom. He knocked on the first door.
 
 "Is this some kind of diversity initiative?"
 
@@ -127,7 +127,7 @@ The first stepsister tried to squeeze on the slipper, but her foot was too large
 The second stepsister took the slipper and stuck her foot in. It slid in easily. Peter was about to cry out with joy when he was interrupted by a loud buzzing and a flashing red light coming from the slipper. The second stepsister's foot had failed dual-factor toeprint authentication.
 
 
-Disheartened, Peter turned to go, but at that moment, Cinderella emerged from her room to throw out her empty ramen cup.
+Disheartened, Peter turned to go, but at that moment, Cinderella emerged from her room to throw away her empty ramen cup.
 
 "Don't even bother," said the wicked VC to Peter. "She doesn't know any of the three Ds of ideation, and I've seen her use tabs instead of spaces."
 Peter sighed. "Just in case?"
