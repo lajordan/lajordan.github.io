@@ -29,6 +29,7 @@ p {
     color: #333;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     text-indent: 50px;
+    padding: 0px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
