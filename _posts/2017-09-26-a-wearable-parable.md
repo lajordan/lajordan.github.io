@@ -130,11 +130,12 @@ The second stepsister took the slipper and stuck her foot in. It slid in easily.
 Disheartened, Peter turned to go, but at that moment, Cinderella emerged from her room to throw away her empty ramen cup.
 
 "Don't even bother," said the wicked VC to Peter. "She doesn't know any of the three Ds of ideation, and I've seen her use tabs instead of spaces."
+
 Peter sighed. "Just in case?"
 
 The wicked VC rolled her eyes and shrugged.
 
-As soon as Cinderella's foot entered it, the slipper made a small ding of approval. With a grin, she scurried into her room and came out wearing both slippers.
+As soon as Cinderella's foot entered it, the slipper gave a small ding of approval. With a grin, she scurried into her room and came out wearing both slippers.
 
 Peter whipped out his phone. "Do you prefer the window or aisle seat?"
 
