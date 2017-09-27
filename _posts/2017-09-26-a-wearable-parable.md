@@ -12,7 +12,7 @@ date: 2017-09-26
 
 "I don't have a mother," said Cinderella.
 
-\n
+
 
 "We're obsessed with hacking the world of big data by leveraging the power of scalable machine learning analytics," said the first stepsister.
 
@@ -22,11 +22,11 @@ date: 2017-09-26
 
 "I said that already," said the first stepsister.
 
-\n
+
 
 The wicked VC flew Cinderella's stepsisters out to Disrupt the Kingdom.
 
-\n
+
 
 As the stepsisters gorged themselves on catered açaí bowls and poké and some other foods with accent marks, Cinderella slumped in her chair at home, sipping a bottle of Soylent. "At this rate, I'll never deliver value to users," she sighed.
 
