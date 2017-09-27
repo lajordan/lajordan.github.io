@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "hello world"
+title: "a ram snag"
 date: 2017-09-19
 ---
 
