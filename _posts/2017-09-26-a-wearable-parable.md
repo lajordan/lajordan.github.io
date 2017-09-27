@@ -92,7 +92,7 @@ Then he remembered something she had mentioned. The slippers were individualized
 
 <br />
 
-Peter Prince set out the next morning in his Tesla looking for every woman engineer in the kingdom with the help of questionably obtained personal data. He knocked on the first door.
+Peter Prince set out in his Tesla the next morning searching, with the help of quasi-legally obtained personal data, for every woman engineer in the kingdom. He knocked on the first door.
 
 "Is this some kind of diversity initiative?"
 
