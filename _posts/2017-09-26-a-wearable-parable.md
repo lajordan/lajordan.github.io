@@ -84,7 +84,7 @@ Cinderella walked past them toward the free food table. She had eaten nothing bu
 
 The more Cinderella talked about her design's features, the more excited Peter grew. He was about to hand her his card and offer her an interview on the spot when he was distracted by the buzz of his watch.
 
-"Sorry, just an unimportant text. Wow, it's 11:58 already – crazy how time flies when you're networking with movers and shakers. You were saying?"
+"Sorry, just a notification. Wow, it's 11:58 already – crazy how time flies when you're networking with movers and shakers. You were saying?"
 
 But Cinderella had already gone pale. She mumbled something about the yoga room and ran off.
 
