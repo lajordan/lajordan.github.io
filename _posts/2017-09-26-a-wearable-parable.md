@@ -4,12 +4,12 @@ title: "A Wearable Parable"
 date: 2017-09-26
 ---
 
-&nbsp;"What's your product space?" asked the wicked venture capitalist.<br />
-&nbsp;"Uh, I'm interested in wearables," said Cinderella.<br />
-&nbsp;"Ha! That market's saturated. Everyone and their mother wants to do wearables. You'll never get into Disrupt the Kingdom with an idea that vague."<br />
-&nbsp;"I don't have a mother," said Cinderella.
+"What's your product space?" asked the wicked venture capitalist.<br />
+"Uh, I'm interested in wearables," said Cinderella.<br />
+"Ha! That market's saturated. Everyone and their mother wants to do wearables. You'll never get into Disrupt the Kingdom with an idea that vague."<br />
+"I don't have a mother," said Cinderella.
 
-&nbsp;"We're obsessed with hacking the world of big data by leveraging the power of scalable machine learning analytics," said the first stepsister.
+"We're obsessed with hacking the world of big data by leveraging the power of scalable machine learning analytics," said the first stepsister.
 "In the cloud," added the second stepsister.
 "Does it scale?" asked the wicked venture capitalist.
 "I said that already," said the first stepsister.
