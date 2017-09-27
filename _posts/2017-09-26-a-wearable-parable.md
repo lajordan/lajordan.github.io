@@ -4,7 +4,7 @@ title: "A Wearable Parable"
 date: 2017-09-26
 ---
 
-&nbsp;"What's your product space?" asked the wicked venture capitalist.
+&nbsp;"What's your product space?" asked the wicked venture capitalist.<br />
     "Uh, I'm interested in wearables," said Cinderella.
     "Ha! That market's saturated. Everyone and their mother wants to do wearables. You'll never get into Disrupt the Kingdom with an idea that vague."
     "I don't have a mother," said Cinderella.
